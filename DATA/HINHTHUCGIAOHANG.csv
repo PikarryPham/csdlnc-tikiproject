@@ -1,0 +1,4 @@
+﻿MA_HTGH,TEN_HTGH,DK_HTGH,PHIGH,THOIGIANDUKIEN
+HTGH001   ,Giao hàng tiêu chuẩn,Thời gian giao tùy thuộc vào khu vực giao,17000,NULL
+HTGH002   ,Giao hàng nhanh bằng TikiNow,"Chỉ áp dụng tại TP.HCM, Hà Nội",30000,Trong ngày
+HTGH003   ,Giao hàng từ nước ngoài,Dùng thẻ ngân hàng để thanh toán,15000,NULL

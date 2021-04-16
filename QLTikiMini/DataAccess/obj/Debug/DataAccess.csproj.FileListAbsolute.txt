@@ -1,0 +1,17 @@
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\DataAccess\obj\Debug\DataAccess.pdb

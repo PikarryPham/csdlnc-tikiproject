@@ -1,0 +1,61 @@
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe.config
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.pdb
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.dll
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.pdb
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csprojResolveAssemblyReference.cache
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountKh.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountNbh.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccount.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormLogin.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormInformationVoucher.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchVoucher.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchProducts.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearch.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.Properties.Resources.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.UserControls.UC_Product.resources
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.GenerateResource.Cache
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.exe
+C:\Users\HoangTM\Desktop\Code thue\QLTIKIMINI\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.pdb
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe.config
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.pdb
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.pdb
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountKh.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountNbh.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccount.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormLogin.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormInformationVoucher.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchVoucher.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchProducts.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearch.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.Properties.Resources.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.UserControls.UC_Product.resources
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.CopyComplete
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.exe
+C:\Users\Admin\OneDrive - VNU-HCMUS\Trang Grade 3\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.pdb
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe.config
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.exe
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\QLTikiMini.pdb
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.dll
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\bin\Debug\DataAccess.pdb
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csprojAssemblyReference.cache
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountKh.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccountNbh.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormCreateAccount.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormLogin.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormInformationVoucher.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchVoucher.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearchProducts.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.FormSearch.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.Properties.Resources.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.UserControls.UC_Product.resources
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.GenerateResource.cache
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.CoreCompileInputs.cache
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.csproj.CopyComplete
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.exe
+C:\Users\MON\OneDrive - VNU-HCMUS\Trang Grade 3\HK1\CSDLNC\Prject 01\2020_CSDLNC_DA2_18127022_18127055_18127053\QLTikiMini\QLTikiMini\obj\Debug\QLTikiMini.pdb

@@ -1,0 +1,201 @@
+﻿ID_THUOCTINHSP,TEN_THUOCTINH,GIATRITHUOCTINH,LOAITHUOCTINH
+1,DarkKhaki,ROSY BROWN          ,0
+2,LightBlue,SILVER (GRAY)       ,0
+3,MediumPurple,GOLDENROD           ,0
+4,DarkGray,LEMON CHIFFON       ,1
+5,White,LIGHT WOOD          ,1
+6,OliveDrab,NAVAJO WHITE        ,0
+7,SandyBrown,FUCHSIA             ,1
+8,Violet,LIME                ,1
+9,Yellow,CORAL               ,0
+10,BlueViolet,LIGHT SKY BLUE      ,1
+11,White,ROSY BROWN          ,0
+12,Gainsboro,CORNFLOWER BLUE     ,1
+13,Sienna,MEDIUM PURPLE       ,0
+14,LightGray,AQUA                ,1
+15,Bisque,SEA GREEN           ,0
+16,Ivory,BLUE                ,1
+17,DarkTurquoise,PLUM                ,0
+18,Coral,SANDY BROWN         ,0
+19,Magenta,OLD GOLD            ,1
+20,Crimson,MEDIUM SLATE BLUE   ,1
+21,Moccasin,SUMMER SKY          ,1
+22,MediumPurple,WHEAT               ,0
+23,Teal,CHOCOLATE           ,0
+24,LightYellow,30X30X34            ,0
+25,DarkGrey,FELDSPAR            ,0
+26,Crimson,SLATE BLUE          ,0
+27,Gray,DARK GREEN COPPER   ,0
+28,DarkGreen,SUMMER SKY          ,0
+29,DarkSlateBlue,MEDIUM SEA GREEN    ,1
+30,SandyBrown,PALE GREEN          ,0
+31,MintCream,BAKER'S CHOCOLATE   ,0
+32,SandyBrown,COPPER              ,0
+33,DarkGray,NAVAJO WHITE        ,1
+34,LightPink,MEDIUM TURQUOISE    ,1
+35,DarkMagenta,MEDIUM WOOD         ,1
+36,Peru,TEAL                ,1
+37,LightSalmon,HUNTER GREEN        ,0
+38,SeaGreen,MEDIUM SPRING GREEN ,0
+39,AntiqueWhite,DARK OLIVE GREEN    ,0
+40,AliceBlue,MOCCASIN            ,0
+41,Peru,MEDIUM TURQUOISE    ,0
+42,DarkSlateGray,MEDIUM SLATE BLUE   ,1
+43,DarkCyan,SALMON              ,0
+44,Snow,AQUAMARINE          ,0
+45,DarkSalmon,SIENNA              ,0
+46,DarkCyan,BISQUE              ,1
+47,SlateGray,DARK WOOD           ,1
+48,Navy,QUARTZ              ,1
+49,Gold,LIGHT SLATE GRAY    ,1
+50,DarkSlateGray,LEMON CHIFFON       ,1
+51,Magenta,RED                 ,1
+52,DarkGray,OLIVE               ,0
+53,Crimson,WHITE               ,1
+54,Lime,SKY BLUE            ,1
+55,IndianRed,OLD LACE            ,1
+56,Linen,VIOLET              ,0
+57,LightSlateGray,PALE VIOLET RED     ,1
+58,BlanchedAlmond,LIGHT GREY          ,1
+59,YellowGreen,COPPER              ,0
+60,SandyBrown,PALE TURQUOISE      ,0
+61,ForestGreen,HOT PINK            ,0
+62,MistyRose,MAROON              ,0
+63,OrangeRed,10X10cm             ,0
+64,DarkBlue,LIME                ,1
+65,IndianRed,LIGHT PINK          ,0
+66,Crimson,NEW TAN             ,0
+67,DarkGray,MEDIUM PURPLE       ,1
+68,Gold,AQUAMARINE          ,1
+69,DeepSkyBlue,LIME GREEN          ,1
+70,DarkViolet,30*40m              ,1
+71,Snow,RED                 ,1
+72,IndianRed,DARK CYAN           ,1
+73,Chocolate,MEDIUM PURPLE       ,0
+74,Linen,BLACK               ,0
+75,GoldenRod,10X12mm             ,1
+76,Indigo,FIREBRICK           ,0
+77,LawnGreen,CORNFLOWER BLUE     ,1
+78,Azure,BURLY WOOD          ,0
+79,FloralWhite,DARK BROWN          ,1
+80,Aqua,DARK GREEN COPPER   ,0
+81,DarkSeaGreen,MEDIUM WOOD         ,1
+82,Navy,MEDIUM SPRING GREEN ,0
+83,SaddleBrown,HUNTER GREEN        ,1
+84,Yellow,CRIMSON             ,0
+85,DarkSlateGray,10X10cm             ,1
+86,LightGray,LIGHT GREY          ,0
+87,OliveDrab,DARK SEA GREEN      ,1
+88,MediumOrchid,SUMMER SKY          ,0
+89,CadetBlue,30*30m              ,1
+90,MediumSeaGreen,PURPLE              ,1
+91,DarkSalmon,DARK GOLDENROD      ,0
+92,LemonChiffon,10X10cm             ,0
+93,SeaGreen,LIGHT PINK          ,1
+94,DarkGoldenRod,MEDIUM SLATE BLUE   ,1
+95,NavajoWhite,DARK WOOD           ,1
+96,Chocolate,BLUE                ,1
+97,LightSkyBlue,NAVY BLUE           ,1
+98,AntiqueWhite,DODGER BLUE         ,1
+99,LightGray,NEW MIDNIGHT BLUE   ,1
+100,Chartreuse,DARK GOLDENROD      ,0
+101,Yellow,MAROON              ,1
+102,LightSkyBlue,DARK SLATE GRAY     ,1
+103,HoneyDew,DARK RED            ,0
+104,Brown,MEDIUM SEA GREEN    ,1
+105,GhostWhite,PLUM                ,0
+106,DarkGrey,MEDIUM PURPLE       ,1
+107,Blue,BRIGHT GOLD         ,0
+108,LightYellow,TOMATO              ,0
+109,DarkMagenta,SNOW                ,0
+110,Yellow,HONEYDEW            ,1
+111,Cornsilk,SALMON              ,0
+112,LightPink,NAVAJO WHITE        ,1
+113,PaleGoldenRod,DIM GRAY            ,1
+114,WhiteSmoke,YELLOW              ,1
+115,MediumBlue,COPPER              ,1
+116,MediumVioletRed,TAN                 ,1
+117,SaddleBrown,DARK BLUE           ,0
+118,PaleGoldenRod,TEAL                ,1
+119,SlateGray,MEDIUM SEA GREEN    ,0
+120,Tan,ANTIQUE WHITE       ,0
+121,Ivory,IVORY               ,0
+122,Lime,SEA GREEN           ,1
+123,DarkSlateGrey,CHARTREUSE          ,1
+124,Moccasin,SKY BLUE            ,1
+125,Beige,SLATE BLUE          ,1
+126,LavenderBlush,SILVER (GRAY)       ,0
+127,LightYellow,SANDY BROWN         ,1
+128,Thistle,BAKER'S CHOCOLATE   ,0
+129,Snow,TAN                 ,1
+130,DarkSlateGray,30*40m              ,1
+131,SlateGray,PURPLE              ,0
+132,Lavender,WHEAT               ,0
+133,LightSlateGray,MANDARIN ORANGE     ,0
+134,DarkOrchid,30*4mm              ,1
+135,Azure,SEA GREEN           ,0
+136,OliveDrab,GREEN               ,1
+137,DeepSkyBlue,FOREST GREEN        ,0
+138,PaleTurquoise,TURQUOISE           ,1
+139,MediumVioletRed,LIGHT SLATE BLUE    ,0
+140,Brown,LIGHT BLUE          ,1
+141,Indigo,HONEYDEW            ,0
+142,DarkBlue,LIGHT PINK          ,1
+143,HotPink,AZURE               ,1
+144,Chartreuse,NAVY BLUE           ,0
+145,LightGrey,30*4m               ,0
+146,Orchid,NAVAJO WHITE        ,0
+147,Orchid,PINK                ,1
+148,Silver,MEDIUM VIOLET RED   ,0
+149,LightYellow,LIGHT PINK          ,0
+150,Beige,LIGHT PINK          ,1
+151,DeepPink,10X10cm             ,1
+152,Purple,SKY BLUE            ,1
+153,CornflowerBlue,SEA GREEN           ,0
+154,LightYellow,NEON BLUE           ,1
+155,NavajoWhite,SPRING GREEN        ,1
+156,Indigo,SEA GREEN           ,0
+157,DarkViolet,CORAL               ,1
+158,Orchid,LINEN               ,0
+159,Bisque,SEA GREEN           ,0
+160,SlateGrey,32X33X34            ,1
+161,MediumPurple,THISTLE             ,0
+162,Cornsilk,BLACK               ,1
+163,MintCream,AQUAMARINE          ,0
+164,Thistle,VIOLET RED          ,1
+165,Chartreuse,ORCHID              ,0
+166,Navy,WHITE SMOKE         ,0
+167,Wheat,CADET BLUE          ,0
+168,LightPink,DUSTY ROSE          ,0
+169,Tomato,CYAN                ,0
+170,SlateGrey,SLATE BLUE          ,1
+171,GhostWhite,MEDIUM SEA GREEN    ,1
+172,BurlyWood,GOLDENROD           ,1
+173,BurlyWood,IVORY               ,1
+174,Red,CORNFLOWER BLUE     ,0
+175,LightGreen,PEACH PUFF          ,1
+176,DarkViolet,10X10cm             ,1
+177,DarkCyan,SADDLE BROWN        ,0
+178,DarkCyan,MEDIUM PURPLE       ,1
+179,DarkGray,SUMMER SKY          ,0
+180,DodgerBlue,DARK PURPLE         ,0
+181,OrangeRed,BROWN               ,0
+182,Navy,DARK ORCHID         ,1
+183,Grey,NEW TAN             ,1
+184,Sienna,LEMON CHIFFON       ,1
+185,White,AZURE               ,0
+186,CadetBlue,32X33X34            ,1
+187,FloralWhite,CORAL               ,1
+188,WhiteSmoke,30*30m              ,1
+189,LightSlateGrey,DARK PURPLE         ,1
+190,MediumOrchid,ALICE BLUE          ,0
+191,Khaki,DARK TURQUOISE      ,0
+192,LightYellow,TEAL                ,0
+193,OliveDrab,BROWN               ,0
+194,PaleGreen,MEDIUM SLATE BLUE   ,0
+195,LightBlue,NAVAJO WHITE        ,1
+196,DimGray,FUCHSIA             ,0
+197,LightGrey,LIGHT CYAN          ,0
+198,LemonChiffon,DARK KHAKI          ,1
+199,AliceBlue,30X30X34            ,1
+200,Red,CADET BLUE          ,0

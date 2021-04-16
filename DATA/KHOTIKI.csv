@@ -1,0 +1,10 @@
+﻿MAKHO,TENKHO,DCHIKHO,LOAIKHO,FLAG_SPAPDUNG,SDTKHO,FLAG_THOIGIANGH,ID_NV
+KHO001    ,HN  ,"89 Lĩnh Nam,P.Mai Động,Q.HMai,HN",Kho Tiki,Tất cả sp,123456789,"8:00–17:00,T2-T7",4
+KHO002    ,HP  ,"KCN Đồng Hoà,Quán Trữ,P.Đồng Hoà,Q.KAn,HP",Kho Tiki,Tất cả sp,13456678,"8:00–17:00,T2-T7",434
+KHO003    ,ÐN  ,"146 Duy Tân, P.Hoà Thuận Tây,Q.HChâu,DN",Kho Tiki,Tất cả sp,904567890,"8:00–17:00,T2-T7",120
+KHO004    ,NT  ,"12 đường Phú Trung,Nha Trang,KH",Kho Tiki,Tất cả sp,9234567812,"8:00–17:00,T2-T7",100
+KHO005    ,SGN ,"367/F370 Đường Bạch Đằng,P.2, Quận TB, Tp.HCM",Kho Tiki,Không nhập kho đối với FBT,345671923,"8:00–17:00,T2-T7",332
+KHO006    ,VLN ,"Lô A85-A86/I,KCN Vĩnh Lộc,Hóc Môn,TPHCM",Kho Tiki,Chỉ nhập những sp được q.định,13456678,"8:00–17:00,T2-T7",399
+KHO007    ,TS  ,"Hẻm 717 Tân Sơn,P.12,Quận GV",Kho Tiki,Chỉ trả hàng lỗi,901456789,"8:00–17:00,T2-T7",47
+KHO008    ,SGN3,"Số 09 Nguyễn Văn Tạo,Long Thới,Nhà Bè,TP.HCM",Kho Tiki,Không nhập sp trong ds nhập kho VLN,702458901,"6:00–17:00,T2-T7",51
+KHO009    ,CT  ,"295 Nguyễn Văn Linh,Phường Long Tuyền,Quận BT,CThơ",Kho Tiki,Tất cả sp,905678901,"8:00–17:00,T2-T7",79

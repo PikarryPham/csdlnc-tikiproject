@@ -1,0 +1,6 @@
+﻿MA_MHVH,TEN_MHVH,LOAI_MHVH,LUUY_MHVH,PHI_XULYDH,PHI_HV,PHILAYHANG
+MHVH001   ,Qua kho tiki ODF,1,Bắt buộc phải có 1 tk N.hàng,0,0,5000
+MHVH002   ,Lưu kho tiki FBT,2,C.việc của NBH là c.việc của tiki,0,0,0
+MHVH003   ,Tự v.hành SD,3,"Tiki đảm nhận việc thanh toán, đổi trả sp",0,0,0
+MHVH004   ,E-Delivery,4,Tiki thay mặt NBH p.hành voucher d.vụ,0,0,0
+MHVH005   ,Bán hàng đa kênh MCF,5,Có đơn hàng từ kênh bán hàng khác,9000,11000,0
